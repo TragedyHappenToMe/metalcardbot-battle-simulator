@@ -6,6 +6,10 @@ Metal Cardbot Battle Simulator is a turn-based CLI battle game featuring charact
 There are 12 playable characters from Season 1:
 Blue Cop, Mega Trucker, Mega Ambler, Phoenix Fire, Shadow X, Fleta Z, Dexter, Buster Gallon, Buffalo Crush, Wild Guardy, Black Hook, and Heavy Iron.
 
+## Files
+- `main.py` - English version
+- `main_indo.py` - Indonesian version
+
 ## How to use
 1. Install dependencies
 `pip install -r requirements.txt`
