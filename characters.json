@@ -1,0 +1,14 @@
+[
+  {"name": "Blue Cop", "hp": 110, "attack": 30, "defense": 20},
+  {"name": "Mega Trucker", "hp": 150, "attack": 25, "defense": 40},
+  {"name": "Mega Ambler", "hp": 120, "attack": 45, "defense": 18},
+  {"name": "Phoenix Fire", "hp": 100, "attack": 40, "defense": 15},
+  {"name": "Shadow X", "hp": 90, "attack": 48, "defense": 12},
+  {"name": "Fleta Z", "hp": 95, "attack": 44, "defense": 14},
+  {"name": "Dexter", "hp": 130, "attack": 42, "defense": 22},
+  {"name": "Buster Gallon", "hp": 135, "attack": 40, "defense": 22},
+  {"name": "Buffalo Crush", "hp": 145, "attack": 46, "defense": 25},
+  {"name": "Wild Guardy", "hp": 105, "attack": 38, "defense": 30},
+  {"name": "Black Hook", "hp": 115, "attack": 50, "defense": 16},
+  {"name": "Heavy Iron", "hp": 150, "attack": 45, "defense": 28}
+]
